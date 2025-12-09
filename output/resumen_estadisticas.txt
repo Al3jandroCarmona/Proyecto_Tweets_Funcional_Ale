@@ -1,0 +1,14 @@
+RESUMEN DE ESTADÍSTICAS
+======================
+Total tweets cargados: 74682
+Total tweets transformados: 74682
+
+Promedio longitud (positive): 93.43
+Promedio longitud (negative): 107.05
+
+Conteo por sentimiento:
+  negative : 22542
+  irrelevant : 12990
+  neutral : 18318
+  positive : 20832
+
